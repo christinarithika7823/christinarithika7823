@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <p>I'm an Enthusiastic and aspiring full-stack web developer with the ability to write efficient code for designing and developing good projects.Iam curious about building interactive and user-friendly websites.</p>
 
  - 🌱 I’m currently learning *REACT*
- -💓   I love designing websites and coding
-- 👯 I’m looking forward for an opportunity to work as *a full-stack web developer*
+ - 💓  I love designing websites and coding
+ - 👯 I’m looking forward for an opportunity to work as *a full-stack web developer*
  - 👨‍💻 All of my projects are available at **
  - 📫 How to reach me *gracechristina2320@gmail.com*
  - ⚡ Fun fact: PROGRAMMER'S WORST NIGHTMARE: *When it takes you two hours to figure out you forgot the semicolon...😄*
-- 💬 Ask me about anything, I am happy to help
+ - 💬 Ask me about anything, I am happy to help
 
   ## 🚀 Languages and Tools:
 
