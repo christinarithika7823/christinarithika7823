@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning *REACT*
  - 💓  I love designing websites and coding
  - 👯 I’m looking forward for an opportunity to work as *a full-stack web developer*
- - 👨‍💻 All of my projects are available at **[MY PORTFOLIO](https://myportfolio-green-nine.vercel.app/)**
+ - 👨‍💻 All of my projects are available at **[MY PORTFOLIO](https://portfoliofinal-jet.vercel.app/)**
  - 📫 How to reach me *gracechristina2320@gmail.com*
  - ⚡ Fun fact: PROGRAMMER'S WORST NIGHTMARE: *When it takes you two hours to figure out you forgot the semicolon...😄*
  - 💬 Ask me about anything, I am happy to help
