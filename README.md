@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Grace Christina Rithika  <img src="https://media4.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif?cid=ecf05e47614e5dwpox0f8mnt0gdfk576uq9zwnu26fasss7l&rid=giphy.gif&ct=g" width="50px"</h1>
+<h1 align="center">Hi 👋, I'm Grace Christina Rithika  <img src="https://media4.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif?cid=ecf05e47614e5dwpox0f8mnt0gdfk576uq9zwnu26fasss7l&rid=giphy.gif&ct=g" width="40px" height="40px"/></h1>
 
 ##  🙋‍♂️ Who Am I?
 <h3 >I'm a passionate Full Stack Web Developer </h3>
