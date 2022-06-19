@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 
 
 <br/>
-<br/>
-<img alt="Grace Christina Rithika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=christinarithika7823&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<!-- <br/>
+<img alt="Grace Christina Rithika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=christinarithika7823&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 
 <br/>
 <br/>
