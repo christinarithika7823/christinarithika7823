@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinarithika7823&theme=radical&show_icons=true" alt="Abhijeet9242" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinarithika7823&theme=radical&show_icons=true" alt="christinarithika7823" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinarithika7823&&theme=highcontrast" alt="christinarithika7823" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
