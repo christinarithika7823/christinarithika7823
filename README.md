@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<img alt="Grace Christina Rithika's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=christinarithika7823&theme=react-dark" />
+<img alt="Grace Christina Rithika's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=christinarithika7823&theme=react-dark" />
 
 <br/>
 <br/>
