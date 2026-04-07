@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Grace Christina Rithika  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtqNWRxd2E4ZXhmbGt1MDJ5NXB6MDBqbnk5aGVwcnk4c2pxOTFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="50px" height="40px"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU1a2ZpZ284NTd4NXRxZGFzbnJvaWFkNzB3MnFydzBweG9wa2d2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY7GXqDzfF4gcF0CvI/giphy.gif" width="50px" height="40px"/> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzYwbjVsZHJ3czA3MDBsYWQ4aGppdjJlYnpnN2FrZ2cybm1ncWR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h6lkNEeOQVTlqDkfWY/giphy.gif" width="50px" height="50px"/> </h1>
+<h1 align="center">Hi 👋, I'm Grace Christina Rithika  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtqNWRxd2E4ZXhmbGt1MDJ5NXB6MDBqbnk5aGVwcnk4c2pxOTFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="60px" height="50px"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU1a2ZpZ284NTd4NXRxZGFzbnJvaWFkNzB3MnFydzBweG9wa2d2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY7GXqDzfF4gcF0CvI/giphy.gif" width="60px" height="50px"/> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzYwbjVsZHJ3czA3MDBsYWQ4aGppdjJlYnpnN2FrZ2cybm1ncWR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h6lkNEeOQVTlqDkfWY/giphy.gif" width="60px" height="50px"/> </h1>
 
 ## 🙋🏻‍♀️ Who Am I? 
 <h3>I'm a passionate Full Stack Web Developer</h3>
