@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<img alt="Grace Christina Rithika's Activity Graph" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christinarithika7823&bg_color=0d1117&color=197df0&line=8720ee&point=945ff7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<img alt="Grace Christina Rithika's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=christinarithika7823&bg_color=0d1117&color=197df0&line=8720ee&point=945ff7&area=true&hide_border=true" />
 
 <br/>
 <br/>
