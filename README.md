@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p> I'm an Enthusiastic and aspiring frontend web developer with the ability to write efficient code for designing and developing good projects.Iam curious about building interactive and user-friendly websites </p>
 
  - 🌱 I’m currently learning *REACT*
- - 💓  I love designing websites and coding
+ - 💓 I love designing websites and coding
  - 👯 I’m looking forward for an opportunity to work as *a frontend web developer*
  - 👨‍💻 All of my projects are available at **[MY PORTFOLIO](https://portfoliofinal-jet.vercel.app/)**
  - 📫 How to reach me *gracechristina2320@gmail.com*
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinarithika7823&show_icons=true&theme=radical" alt="christinarithika7823" /></p>
 <br>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=christinarithika7823&theme=dark" alt="christinarithika7823" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 
 
 <br/>
@@ -93,6 +93,6 @@ Here are some ideas to get you started:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/grace-christina-rithika-65a9bb1a2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on gracechristina2320@gmail.com
+ * Mail me at gracechristina2320@gmail.com
 
 </p>
