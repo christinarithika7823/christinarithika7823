@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"> Hi 👋, I'm Grace Christina Rithika   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtqNWRxd2E4ZXhmbGt1MDJ5NXB6MDBqbnk5aGVwcnk4c2pxOTFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="60px" height="50px"/>   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU1a2ZpZ284NTd4NXRxZGFzbnJvaWFkNzB3MnFydzBweG9wa2d2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY7GXqDzfF4gcF0CvI/giphy.gif" width="60px" height="50px"/>   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzYwbjVsZHJ3czA3MDBsYWQ4aGppdjJlYnpnN2FrZ2cybm1ncWR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h6lkNEeOQVTlqDkfWY/giphy.gif" width="60px" height="50px"/> </h1>
+<h1 align="center"> Hi 👋,I'm Grace Christina Rithika  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtqNWRxd2E4ZXhmbGt1MDJ5NXB6MDBqbnk5aGVwcnk4c2pxOTFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="60px" height="50px"/>  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU1a2ZpZ284NTd4NXRxZGFzbnJvaWFkNzB3MnFydzBweG9wa2d2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY7GXqDzfF4gcF0CvI/giphy.gif" width="60px" height="50px"/>  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzYwbjVsZHJ3czA3MDBsYWQ4aGppdjJlYnpnN2FrZ2cybm1ncWR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h6lkNEeOQVTlqDkfWY/giphy.gif" width="60px" height="50px"/></h1>
 
 ## 🙋🏻‍♀️ Who Am I? 
 <h3> I'm a passionate Frontend Web Developer</h3>
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
  - 👯 I’m looking forward to an opportunity to work as *a frontend web developer*
  - 👨‍💻 All of my projects are available at **[MY PORTFOLIO](https://portfoliofinal-jet.vercel.app/)**.
  - 📫 How to reach me *gracechristina2320@gmail.com*
- - ⚡ Fun fact: PROGRAMMER'S WORST NIGHTMARE: *When it takes you two hours to figure out you forgot the semicolon......😄*
- - 💬 Ask me about anything, I am happy to help.
+ - ⚡ Fun fact: PROGRAMMER'S WORST NIGHTMARE: *When it takes you two hours to figure out you forgot the semicolon.....😄*
+ - 💬 Ask me about anything; I am happy to help.
 
   ## 🚀 Languages and Tools :
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </p> -->
  
 
-## 📊 My Github Stats
+## 📊 My GitHub Stats
 
   <br/>
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinarithika7823&show_icons=true&theme=radical" alt="christinarithika7823" /></p>
