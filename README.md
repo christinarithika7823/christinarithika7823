@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"> Hi 👋,I'm Grace Christina Rithika  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtqNWRxd2E4ZXhmbGt1MDJ5NXB6MDBqbnk5aGVwcnk4c2pxOTFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="60px" height="50px"/>  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU1a2ZpZ284NTd4NXRxZGFzbnJvaWFkNzB3MnFydzBweG9wa2d2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY7GXqDzfF4gcF0CvI/giphy.gif" width="60px" height="50px"/>  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzYwbjVsZHJ3czA3MDBsYWQ4aGppdjJlYnpnN2FrZ2cybm1ncWR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h6lkNEeOQVTlqDkfWY/giphy.gif" width="60px" height="50px"/></h1>
+<h1 align="center"> Hi 👋,I'm Grace Christina Rithika  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtqNWRxd2E4ZXhmbGt1MDJ5NXB6MDBqbnk5aGVwcnk4c2pxOTFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="60px" height="50px"/>  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU1a2ZpZ284NTd4NXRxZGFzbnJvaWFkNzB3MnFydzBweG9wa2d2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY7GXqDzfF4gcF0CvI/giphy.gif" width="60px" height="50px"/>  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzYwbjVsZHJ3czA3MDBsYWQ4aGppdjJlYnpnN2FrZ2cybm1ncWR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h6lkNEeOQVTlqDkfWY/giphy.gif" width="60px" height="50px"/>  </h1>
 
 ## 🙋🏻‍♀️ Who Am I? 
 <h3> I'm a passionate Frontend Web Developer</h3>
@@ -73,13 +73,13 @@ Here are some ideas to get you started:
 </p> -->
  
 
-## 📊 My GitHub Stats
+## 📊 My Github Stats
 
   <br/>
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinarithika7823&show_icons=true&theme=radical" alt="christinarithika7823" /></p>
 <br>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=christinarithika7823&theme=dark" alt="christinarithika7823" /></p>
-  <b>Note: </b>Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
+  <b> Note: </b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 
 
 <br/>
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-## Contact Me ☎️
+## Contact me ☎️
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/grace-christina-rithika-65a9bb1a2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
